@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bells.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>E8EE1B6F31D62F2584A49EBBADD3859FDC00F103</string>
+				<key>dateExpires</key>
+				<string>11/17/22</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V3HUL9EB4V.V3HUL9EB4V.com.remarkablehealth.bells-mobile</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V3HUL9EB4V</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>V3HUL9EB4V.V3HUL9EB4V.com.remarkablehealth.bells-mobile</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>bells.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a4d9328d-49b9-465b-bf6c-e7286fdba1c8</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: V3HUL9EB4V.com.remarkablehealth.bells-mobile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V3HUL9EB4V</string>
+				<key>name</key>
+				<string>REMARKABLE HEALTH, LLC</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
